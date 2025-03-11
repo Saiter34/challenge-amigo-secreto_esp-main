@@ -20,3 +20,8 @@ Instala las dependencias necesarias (si aplica).
 - Abre el archivo index.html en tu navegador.
 - Ingresa los nombres de los participantes en el campo correspondiente.
 - Haz clic en el botón "Realizar Sorteo" para obtener los resultados.
+5. Soluciones a Problemas Comunes
+- Error al agregar nombres: Asegúrate de que no haya nombres duplicados.
+- Sorteo no funciona: Verifica que todos los nombres estén correctamente ingresados.
+- Resultados no se muestran: Comprueba la consola del navegador para errores en el código.
+- Problemas de visualización: Asegúrate de usar un navegador compatible.
